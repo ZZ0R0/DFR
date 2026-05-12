@@ -1,5 +1,8 @@
 # Analyse de la Sécurité du Trafic Réseau avec Wireshark
 
+> **📦 Archived (read-only).** Coursework — a network-security Q&A write-up (Wireshark captures: DHCP DORA, DNS, HTTP, Kerberos/RDP/WinRM/SSH/SMB auth, TCP flags, DNSSEC, PKI, …). Done during the Simplon networking class. Kept for reference; not maintained.
+
+
 ## Informations Réseau
 - **Adresse IP** : 192.168.0.86
 - **Classe IP** : Classe C
